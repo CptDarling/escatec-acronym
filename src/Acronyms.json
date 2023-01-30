@@ -1,0 +1,2308 @@
+{
+"acronyms":[
+ {
+  "name": "IBU",
+  "description": "Independent Business Unit",
+  "category": "General"
+ },
+ {
+  "name": "EAL",
+  "description": "ESCAair Ltd.",
+  "category": "General"
+ },
+ {
+  "name": "ESM",
+  "description": "ESCATEC Malaysia",
+  "category": "General"
+ },
+ {
+  "name": "EDM",
+  "description": "ESCATEC Devices Medical",
+  "category": "General"
+ },
+ {
+  "name": "EEM",
+  "description": "Escatec Electronics Malaysia",
+  "category": "General"
+ },
+ {
+  "name": "EMM",
+  "description": "ESCATEC Mechatronics Malaysia",
+  "category": "General"
+ },
+ {
+  "name": "ETE",
+  "description": "ESCATEC Trading & Engineering AG",
+  "category": "General"
+ },
+ {
+  "name": "ESE",
+  "description": "ESCATEC Sweden AB",
+  "category": "General"
+ },
+ {
+  "name": "EUK",
+  "description": "ESCATEC United Kingdom",
+  "category": "General"
+ },
+ {
+  "name": "ECZ",
+  "description": "ESCATEC Czech Republic",
+  "category": "General"
+ },
+ {
+  "name": "ECH",
+  "description": "ESCATEC Switzerland",
+  "category": "General"
+ },
+ {
+  "name": "EEM P3",
+  "description": "EEM Plastic Injection Moulding Plant",
+  "category": "General"
+ },
+ {
+  "name": "EMM J1",
+  "category": "General"
+ },
+ {
+  "name": "EMM J2",
+  "category": "General"
+ },
+ {
+  "name": "ETC",
+  "description": "ESCATEC Technology Council",
+  "category": "General"
+ },
+ {
+  "name": "BM",
+  "description": "Board Meeting",
+  "category": "General"
+ },
+ {
+  "name": "CMM",
+  "description": "Corporate Management Meeting",
+  "category": "General"
+ },
+ {
+  "name": "CMS",
+  "description": "Corporate Management Seminar",
+  "category": "General"
+ },
+ {
+  "name": "SOP",
+  "description": "Standard Operating Procedure",
+  "category": "General"
+ },
+ {
+  "name": "DOCCON",
+  "description": "Document Control",
+  "category": "General"
+ },
+ {
+  "name": "DCC",
+  "description": "Document Control Centre",
+  "category": "General"
+ },
+ {
+  "name": "BSC",
+  "description": "Balanced Score Card",
+  "category": "General"
+ },
+ {
+  "name": "MIR",
+  "description": "Management Information Report",
+  "category": "General"
+ },
+ {
+  "name": "KPI",
+  "description": "Key Performance Indicator",
+  "category": "General"
+ },
+ {
+  "name": "NDA",
+  "description": "Non Disclosure Agreement",
+  "category": "General"
+ },
+ {
+  "name": "CEM",
+  "description": "Contract Electronic Manufacturing",
+  "category": "General"
+ },
+ {
+  "name": "CM",
+  "description": "Contract Manufacturer",
+  "category": "General"
+ },
+ {
+  "name": "EMS",
+  "description": "Electronic Manufacturing Services",
+  "category": "General"
+ },
+ {
+  "name": "OEM",
+  "description": "Original Equipment Manufacturing",
+  "category": "General"
+ },
+ {
+  "name": "EHS",
+  "description": "Environment, Health & Safety",
+  "category": "General"
+ },
+ {
+  "name": "MA",
+  "description": "Manufacturing Agreement",
+  "category": "BD"
+ },
+ {
+  "name": "DESA",
+  "description": "Design and Engineering Services Agreement",
+  "category": "BD"
+ },
+ {
+  "name": "VMI",
+  "description": "Vendor Managed Inventory",
+  "category": "BD"
+ },
+ {
+  "name": "AVL",
+  "description": "Approved Vendor List",
+  "category": "BD"
+ },
+ {
+  "name": "GT&Cs",
+  "description": "General Terms & Conditions",
+  "category": "BD"
+ },
+ {
+  "name": "RFQ",
+  "description": "Request for Quotation",
+  "category": "BD"
+ },
+ {
+  "name": "RFI",
+  "description": "Request for Information",
+  "category": "BD"
+ },
+ {
+  "name": "SLA",
+  "description": "Service Level Agreement",
+  "category": "BD"
+ },
+ {
+  "name": "CMRT",
+  "description": "Conflict Minerals Reporting Template",
+  "category": "Compliance"
+ },
+ {
+  "name": "CSR",
+  "description": "Corporate Social Responsibility",
+  "category": "Compliance"
+ },
+ {
+  "name": "DOSH",
+  "description": "Department Occupational Health Safety",
+  "category": "Compliance"
+ },
+ {
+  "name": "ELV",
+  "description": "End of Life Vehicles",
+  "category": "Compliance"
+ },
+ {
+  "name": "EU POP",
+  "description": "European Union Persistent Organic Pollutants ",
+  "category": "Compliance"
+ },
+ {
+  "name": "EUC",
+  "description": "End-Use Compliance",
+  "category": "Compliance"
+ },
+ {
+  "name": "NIOSH",
+  "description": "National Institute Occupational Safety Health",
+  "category": "Compliance"
+ },
+ {
+  "name": "RBA",
+  "description": "Responsible Business Alliance",
+  "category": "Compliance"
+ },
+ {
+  "name": "REACH",
+  "description": "Registration, Evaluation, Authorisation and Restriction of Chemicals",
+  "category": "Compliance"
+ },
+ {
+  "name": "RoHS",
+  "description": "Restriction of the Use of certain Hazardous Substances",
+  "category": "Compliance"
+ },
+ {
+  "name": "TSCA",
+  "description": "United States Toxic Substances Control Act (",
+  "category": "Compliance"
+ },
+ {
+  "name": "UNGC",
+  "description": "United Nations Global Compact",
+  "category": "Compliance"
+ },
+ {
+  "name": "WEEE",
+  "description": "Waste Electrical and Electronic Equipment",
+  "category": "Compliance"
+ },
+ {
+  "name": "IOSH",
+  "description": "Institution of Occupational Safety and Health",
+  "category": "Compliance"
+ },
+ {
+  "name": "NEBOSH",
+  "description": "National Diploma in Occupational Safety and Health",
+  "category": "Compliance"
+ },
+ {
+  "name": "COSHH",
+  "description": "Control of Substances Hazardous to health",
+  "category": "Compliance"
+ },
+ {
+  "name": "GDPR",
+  "description": "General Data Protection Regulation",
+  "category": "Compliance"
+ },
+ {
+  "name": "LC",
+  "description": "Labour Code",
+  "category": "Compliance"
+ },
+ {
+  "name": "HO",
+  "description": "Home Office",
+  "category": "Compliance"
+ },
+ {
+  "name": "AOI",
+  "description": "Automated Optical Inspection",
+  "category": "Engineering & Manufacturing"
+ },
+ {
+  "name": "ATE",
+  "description": "Automated Optical Equipment",
+  "category": "Engineering & Manufacturing"
+ },
+ {
+  "name": "ATE",
+  "description": "Automatic Test Equipment",
+  "category": "Engineering & Manufacturing"
+ },
+ {
+  "name": "BGA",
+  "description": "Ball Grid Array",
+  "category": "Engineering & Manufacturing"
+ },
+ {
+  "name": "BOM",
+  "description": "Bill of Material",
+  "category": "Engineering & Manufacturing"
+ },
+ {
+  "name": "BTP",
+  "description": "Build to Print",
+  "category": "Engineering & Manufacturing"
+ },
+ {
+  "name": "CAD",
+  "description": "Computer-Aided Design",
+  "category": "Engineering & Manufacturing"
+ },
+ {
+  "name": "CSN",
+  "description": "Customer Serial Number",
+  "category": "Engineering & Manufacturing"
+ },
+ {
+  "name": "DFA",
+  "description": "Design for Assembly ",
+  "category": "Engineering & Manufacturing"
+ },
+ {
+  "name": "DFM",
+  "description": "Design for Manufacturing ",
+  "category": "Engineering & Manufacturing"
+ },
+ {
+  "name": "DFT",
+  "description": "Design for Test",
+  "category": "Engineering & Manufacturing"
+ },
+ {
+  "name": "DIL",
+  "description": "Dual In-Line",
+  "category": "Engineering & Manufacturing"
+ },
+ {
+  "name": "DMR",
+  "description": "Defective Material Report",
+  "category": "Engineering & Manufacturing"
+ },
+ {
+  "name": "ECAD",
+  "description": "Electronic Computer-Aided Design",
+  "category": "Engineering & Manufacturing"
+ },
+ {
+  "name": "ECAE",
+  "description": "Electrical Computer-Aided Engineering",
+  "category": "Engineering & Manufacturing"
+ },
+ {
+  "name": "ECAM",
+  "description": "Electrical Computer-Aided Manufacturing",
+  "category": "Engineering & Manufacturing"
+ },
+ {
+  "name": "ECN",
+  "description": "Engineering Change Notice",
+  "category": "Engineering & Manufacturing"
+ },
+ {
+  "name": "ECO",
+  "description": "Engineering Change Order",
+  "category": "Engineering & Manufacturing"
+ },
+ {
+  "name": "ECR",
+  "description": "Engineering Change Request",
+  "category": "Engineering & Manufacturing"
+ },
+ {
+  "name": "EDI",
+  "description": "Electronic Data Interchange",
+  "category": "Engineering & Manufacturing"
+ },
+ {
+  "name": "ERP",
+  "description": "Enterprise Resource Planning",
+  "category": "Engineering & Manufacturing"
+ },
+ {
+  "name": "FAI",
+  "description": "First Article Inspection",
+  "category": "Engineering & Manufacturing"
+ },
+ {
+  "name": "FCT",
+  "description": "Functional Test",
+  "category": "Engineering & Manufacturing"
+ },
+ {
+  "name": "FEA",
+  "description": "Finite Element Analysis",
+  "category": "Engineering & Manufacturing"
+ },
+ {
+  "name": "FFF",
+  "description": "Fir Form Function",
+  "category": "Engineering & Manufacturing"
+ },
+ {
+  "name": "FG",
+  "description": "Finished Goods",
+  "category": "Engineering & Manufacturing"
+ },
+ {
+  "name": "FLL",
+  "description": "Feeder Loading List",
+  "category": "Engineering & Manufacturing"
+ },
+ {
+  "name": "FMEA",
+  "description": "Failure Mode Effects Analysis",
+  "category": "Engineering & Manufacturing"
+ },
+ {
+  "name": "FP",
+  "description": "Flying Probe",
+  "category": "Engineering & Manufacturing"
+ },
+ {
+  "name": "HASL",
+  "description": "Hot Air Solder Levelling",
+  "category": "Engineering & Manufacturing"
+ },
+ {
+  "name": "HIC",
+  "description": "Humidity Indicator Card",
+  "category": "Engineering & Manufacturing"
+ },
+ {
+  "name": "ICT",
+  "description": "In Circuit Test",
+  "category": "Engineering & Manufacturing"
+ },
+ {
+  "name": "IPQC",
+  "description": "In-process Quality Control",
+  "category": "Engineering & Manufacturing"
+ },
+ {
+  "name": "ISN",
+  "description": "International Standard name",
+  "category": "Engineering & Manufacturing"
+ },
+ {
+  "name": "JIT",
+  "description": "Just in Time",
+  "category": "Engineering & Manufacturing"
+ },
+ {
+  "name": "MBB",
+  "description": "Moisture Barrier Bag",
+  "category": "Engineering & Manufacturing"
+ },
+ {
+  "name": "MCAD",
+  "description": "Mechanical computer-aided design",
+  "category": "Engineering & Manufacturing"
+ },
+ {
+  "name": "MDA",
+  "description": "Manufacturing Defect Analyser",
+  "category": "Engineering & Manufacturing"
+ },
+ {
+  "name": "MOEMS",
+  "description": "Micro Optical Electro Mechanical Systems",
+  "category": "Engineering & Manufacturing"
+ },
+ {
+  "name": "MSD",
+  "description": "Moisture Sensitive Device",
+  "category": "Engineering & Manufacturing"
+ },
+ {
+  "name": "MSL",
+  "description": "Moisture Sensitive Level",
+  "category": "Engineering & Manufacturing"
+ },
+ {
+  "name": "MTO",
+  "description": "Made to Order",
+  "category": "Engineering & Manufacturing"
+ },
+ {
+  "name": "NCR",
+  "description": "Non-Conformance Report",
+  "category": "Engineering & Manufacturing"
+ },
+ {
+  "name": "NPI",
+  "description": "New Product Introduction",
+  "category": "Engineering & Manufacturing"
+ },
+ {
+  "name": "NRE",
+  "description": "Non-Recurring Engineering",
+  "category": "Engineering & Manufacturing"
+ },
+ {
+  "name": "OA",
+  "description": "Outbound Advance",
+  "category": "Engineering & Manufacturing"
+ },
+ {
+  "name": "OBA",
+  "description": "Out of Box Audit",
+  "category": "Engineering & Manufacturing"
+ },
+ {
+  "name": "OQA",
+  "description": "Outgoing \/ Final Quality Assurance",
+  "category": "Engineering & Manufacturing"
+ },
+ {
+  "name": "OTD",
+  "description": "On Time Delivery",
+  "category": "Engineering & Manufacturing"
+ },
+ {
+  "name": "OTIF",
+  "description": "On Time in Full",
+  "category": "Engineering & Manufacturing"
+ },
+ {
+  "name": "PCBA",
+  "description": "Printed Circuit Board Assembly",
+  "category": "Engineering & Manufacturing"
+ },
+ {
+  "name": "PCN",
+  "description": "Product Change Notice",
+  "category": "Engineering & Manufacturing"
+ },
+ {
+  "name": "PLV",
+  "description": "Part Line Verification",
+  "category": "Engineering & Manufacturing"
+ },
+ {
+  "name": "PPM",
+  "description": "Parts Per Million",
+  "category": "Engineering & Manufacturing"
+ },
+ {
+  "name": "PTH",
+  "description": "Plated Through Hole",
+  "category": "Engineering & Manufacturing"
+ },
+ {
+  "name": "RGA",
+  "description": "Return Goods Authorization",
+  "category": "Engineering & Manufacturing"
+ },
+ {
+  "name": "RMA",
+  "description": "Return Material Authorization",
+  "category": "Engineering & Manufacturing"
+ },
+ {
+  "name": "RPI",
+  "description": "Raspberry Pi",
+  "category": "Engineering & Manufacturing"
+ },
+ {
+  "name": "SFC",
+  "description": "Shop Flor Control",
+  "category": "Engineering & Manufacturing"
+ },
+ {
+  "name": "SMD",
+  "description": "Surface Mount Device",
+  "category": "Engineering & Manufacturing"
+ },
+ {
+  "name": "SMT",
+  "description": "Surface Mount Technology",
+  "category": "Engineering & Manufacturing"
+ },
+ {
+  "name": "SPC",
+  "description": "Statistics Process Control",
+  "category": "Engineering & Manufacturing"
+ },
+ {
+  "name": "SPI",
+  "description": "Solder Paste Inspection",
+  "category": "Engineering & Manufacturing"
+ },
+ {
+  "name": "UDI ",
+  "description": "Unique Device Identification",
+  "category": "Engineering & Manufacturing"
+ },
+ {
+  "name": "UOM",
+  "description": "Unit of Measure",
+  "category": "Engineering & Manufacturing"
+ },
+ {
+  "name": "WI",
+  "description": "Working Instruction",
+  "category": "Engineering & Manufacturing"
+ },
+ {
+  "name": "WIP",
+  "description": "Work in Progress",
+  "category": "Engineering & Manufacturing"
+ },
+ {
+  "name": "WO",
+  "description": "Works Order",
+  "category": "Engineering & Manufacturing"
+ },
+ {
+  "name": "QFN",
+  "description": "Quad Flat no-lead package",
+  "category": "Engineering & Manufacturing"
+ },
+ {
+  "name": "CSP",
+  "description": "Chip-scale package",
+  "category": "Engineering & Manufacturing"
+ },
+ {
+  "name": "8D",
+  "description": "8 Discipline Problem Solving Methodology",
+  "category": "Quality"
+ },
+ {
+  "name": "AAR",
+  "description": "Appearance Approval Report",
+  "category": "Quality"
+ },
+ {
+  "name": "ACM",
+  "description": "Assent Compliance Manager Software",
+  "category": "Quality"
+ },
+ {
+  "name": "AI",
+  "description": "Auto Insert",
+  "category": "Quality"
+ },
+ {
+  "name": "AIAG",
+  "description": "Automotive Industry Action Group’s",
+  "category": "Quality"
+ },
+ {
+  "name": "AN",
+  "description": "Advisory Notice",
+  "category": "Quality"
+ },
+ {
+  "name": "ANOVA",
+  "description": "Analysis of Variance",
+  "category": "Quality"
+ },
+ {
+  "name": "AOI",
+  "description": "Automatic Optical Inspection",
+  "category": "Quality"
+ },
+ {
+  "name": "APQP",
+  "description": "Advance Product Quality Plan",
+  "category": "Quality"
+ },
+ {
+  "name": "AQL",
+  "description": "Acceptable Quality Level",
+  "category": "Quality"
+ },
+ {
+  "name": "ASM",
+  "description": "Assent Success Manager",
+  "category": "Quality"
+ },
+ {
+  "name": "BD",
+  "description": "Business Development",
+  "category": "Quality"
+ },
+ {
+  "name": "BOM",
+  "description": "Bill of Materials",
+  "category": "Quality"
+ },
+ {
+  "name": "BRC",
+  "description": "British Retail Consortium",
+  "category": "Quality"
+ },
+ {
+  "name": "BSC",
+  "description": "Balance Score Card",
+  "category": "Quality"
+ },
+ {
+  "name": "BUM",
+  "description": "Business Unit Manager",
+  "category": "Quality"
+ },
+ {
+  "name": "CA",
+  "description": "Corrective Action",
+  "category": "Quality"
+ },
+ {
+  "name": "CAPA",
+  "description": "Corrective Action Preventive Action",
+  "category": "Quality"
+ },
+ {
+  "name": "CAR",
+  "description": "Corrective Action Request \/ Report",
+  "category": "Quality"
+ },
+ {
+  "name": "CE",
+  "description": "Component Engineer",
+  "category": "Quality"
+ },
+ {
+  "name": "cGMP",
+  "description": "Current Good Manufacturing Practice",
+  "category": "Quality"
+ },
+ {
+  "name": "CIL",
+  "description": "SOP Continual Improvement Leader",
+  "category": "Quality"
+ },
+ {
+  "name": "CMM",
+  "description": "Coordinate measuring machine",
+  "category": "Quality"
+ },
+ {
+  "name": "CMRT",
+  "description": "Conflict Minerals Reporting Template",
+  "category": "Quality"
+ },
+ {
+  "name": "COC",
+  "description": "Certificate of Compliance \/ Conformity",
+  "category": "Quality"
+ },
+ {
+  "name": "COO",
+  "description": "Chief Operating Officer",
+  "category": "Quality"
+ },
+ {
+  "name": "COPQ",
+  "description": "Cost of Poor Quality",
+  "category": "Quality"
+ },
+ {
+  "name": "CPE",
+  "description": "Corporate Procurement Executive",
+  "category": "Quality"
+ },
+ {
+  "name": "CRCM",
+  "description": "Corporate Regulatory Compliance Manager",
+  "category": "Quality"
+ },
+ {
+  "name": "CSIP",
+  "description": "Customer Satisfaction Improvement Plan",
+  "category": "Quality"
+ },
+ {
+  "name": "DBP",
+  "description": "Director of Business Process ",
+  "category": "Quality"
+ },
+ {
+  "name": "DCC",
+  "description": "Document Control Centre",
+  "category": "Quality"
+ },
+ {
+  "name": "DCR",
+  "description": "Document Change Request",
+  "category": "Quality"
+ },
+ {
+  "name": "DCS",
+  "description": "Director Customer Service",
+  "category": "Quality"
+ },
+ {
+  "name": "DFMEA",
+  "description": "Design Failure Mode Effects Analysis",
+  "category": "Quality"
+ },
+ {
+  "name": "DHR",
+  "description": "Device History REcord",
+  "category": "Quality"
+ },
+ {
+  "name": "DM ",
+  "description": "Department Manager",
+  "category": "Quality"
+ },
+ {
+  "name": "DMAIC",
+  "description": "Define, Measure, Analyse, Improve, Control",
+  "category": "Quality"
+ },
+ {
+  "name": "DMR",
+  "description": "Device Master REcord",
+  "category": "Quality"
+ },
+ {
+  "name": "DOCCON",
+  "description": "Document Control",
+  "category": "Quality"
+ },
+ {
+  "name": "DPMO",
+  "description": "Defects Per Million Opportunities",
+  "category": "Quality"
+ },
+ {
+  "name": "ECH",
+  "description": "ESCATEC Switzerland AG",
+  "category": "Quality"
+ },
+ {
+  "name": "ECN",
+  "description": "Engineering Change Notice",
+  "category": "Quality"
+ },
+ {
+  "name": "ECO",
+  "description": "Engineering Change Order",
+  "category": "Quality"
+ },
+ {
+  "name": "ECR",
+  "description": "Engineering Change Request",
+  "category": "Quality"
+ },
+ {
+  "name": "EM",
+  "description": "Engineering Manager",
+  "category": "Quality"
+ },
+ {
+  "name": "EMR ",
+  "description": "Environmental Management Representative",
+  "category": "Quality"
+ },
+ {
+  "name": "EMS",
+  "description": "Environment Management System",
+  "category": "Quality"
+ },
+ {
+  "name": "EN\/PM",
+  "description": "Engineering and Project Management",
+  "category": "Quality"
+ },
+ {
+  "name": "EOL",
+  "description": "End Of Line \/ End Of Life",
+  "category": "Quality"
+ },
+ {
+  "name": "EPA",
+  "description": "ESD Protected Area ",
+  "category": "Quality"
+ },
+ {
+  "name": "ERP",
+  "description": "Enterprise Resource Planning",
+  "category": "Quality"
+ },
+ {
+  "name": "ESCAPMS ",
+  "description": "ESCATEC preventive maintenance system",
+  "category": "Quality"
+ },
+ {
+  "name": "ESCASOP",
+  "description": "ESCTAEC Standard Operating Procedure system",
+  "category": "Quality"
+ },
+ {
+  "name": "ESD",
+  "description": "Electrostatic Discharge",
+  "category": "Quality"
+ },
+ {
+  "name": "ESDA",
+  "description": "Electrostatic Discharge Association",
+  "category": "Quality"
+ },
+ {
+  "name": "ESDS",
+  "description": "Electrostatic Discharge Sensitive",
+  "category": "Quality"
+ },
+ {
+  "name": "EU",
+  "description": "European Union",
+  "category": "Quality"
+ },
+ {
+  "name": "EWI",
+  "description": "Electronic Work Instructions",
+  "category": "Quality"
+ },
+ {
+  "name": "FA",
+  "description": "Failure Analysis",
+  "category": "Quality"
+ },
+ {
+  "name": "FA",
+  "description": "First Article",
+  "category": "Quality"
+ },
+ {
+  "name": "FAAF",
+  "description": "First Article Approval Form",
+  "category": "Quality"
+ },
+ {
+  "name": "FAA",
+  "description": "First Article Approval",
+  "category": "Quality"
+ },
+ {
+  "name": "FAI",
+  "description": "First Article Inspection",
+  "category": "Quality"
+ },
+ {
+  "name": "FC",
+  "description": "Financial Controller",
+  "category": "Quality"
+ },
+ {
+  "name": "FCT",
+  "description": "Functional Test",
+  "category": "Quality"
+ },
+ {
+  "name": "FDA",
+  "description": "Food and Drug Administration",
+  "category": "Quality"
+ },
+ {
+  "name": "FFA",
+  "description": "Field Failure Analysis",
+  "category": "Quality"
+ },
+ {
+  "name": "FG",
+  "description": "Finished Good",
+  "category": "Quality"
+ },
+ {
+  "name": "FMEA",
+  "description": "Failure Mode Effect Analysis",
+  "category": "Quality"
+ },
+ {
+  "name": "FPY",
+  "description": "First pass yield",
+  "category": "Quality"
+ },
+ {
+  "name": "GI",
+  "description": "General Instruction",
+  "category": "Quality"
+ },
+ {
+  "name": "GM",
+  "description": "General Manager",
+  "category": "Quality"
+ },
+ {
+  "name": "GR&R",
+  "description": "Gauge Repeatability & Reproducibility",
+  "category": "Quality"
+ },
+ {
+  "name": "HACCP",
+  "description": "Hazard Analysis and Critical Control Points",
+  "category": "Quality"
+ },
+ {
+  "name": "HODs",
+  "description": "Head of Departments",
+  "category": "Quality"
+ },
+ {
+  "name": "IATF",
+  "description": " International Automotive Task Force",
+  "category": "Quality"
+ },
+ {
+  "name": "IBU",
+  "description": "Independent Business Unit",
+  "category": "Quality"
+ },
+ {
+  "name": "IC",
+  "description": "Intergrated Circuit",
+  "category": "Quality"
+ },
+ {
+  "name": "ICT",
+  "description": "In-Circuit Test",
+  "category": "Quality"
+ },
+ {
+  "name": "ID",
+  "description": "Identification",
+  "category": "Quality"
+ },
+ {
+  "name": "IE",
+  "description": "Industrial Engineer",
+  "category": "Quality"
+ },
+ {
+  "name": "IEC",
+  "description": "International Electrotechnical Commission",
+  "category": "Quality"
+ },
+ {
+  "name": "IIP",
+  "description": "Incoming Inspection Plan",
+  "category": "Quality"
+ },
+ {
+  "name": "IIR",
+  "description": "Incoming Inspection Report ",
+  "category": "Quality"
+ },
+ {
+  "name": "IMR",
+  "description": "Incoming Material Reject Report",
+  "category": "Quality"
+ },
+ {
+  "name": "IPA",
+  "description": "In Process Audit",
+  "category": "Quality"
+ },
+ {
+  "name": "IPC",
+  "description": "Association Connecting Electronics Industries",
+  "category": "Quality"
+ },
+ {
+  "name": "IPE",
+  "description": "Independent Business Unit Procurement Executive",
+  "category": "Quality"
+ },
+ {
+  "name": "IPQC ",
+  "description": "In Process Quality Control",
+  "category": "Quality"
+ },
+ {
+  "name": "IQC",
+  "description": "Incoming Quality Control ",
+  "category": "Quality"
+ },
+ {
+  "name": "ISIR",
+  "description": "Initial Sample Inspection Report",
+  "category": "Quality"
+ },
+ {
+  "name": "ISO",
+  "description": "International Organisation for Standardization",
+  "category": "Quality"
+ },
+ {
+  "name": "IT",
+  "description": "Information Technology",
+  "category": "Quality"
+ },
+ {
+  "name": "IWI",
+  "description": "Incoming Waiting Inspection",
+  "category": "Quality"
+ },
+ {
+  "name": "KAE",
+  "description": "Key Account Executive",
+  "category": "Quality"
+ },
+ {
+  "name": "KAM",
+  "description": "Key Account Manager",
+  "category": "Quality"
+ },
+ {
+  "name": "KPI",
+  "description": "Key Performance Indicator",
+  "category": "Quality"
+ },
+ {
+  "name": "LAR",
+  "description": "Lot Acceptance Rate",
+  "category": "Quality"
+ },
+ {
+  "name": "LCL",
+  "description": "Lower Control Limit",
+  "category": "Quality"
+ },
+ {
+  "name": "LSL",
+  "description": "Lower Spec Limit",
+  "category": "Quality"
+ },
+ {
+  "name": "MDA",
+  "description": "Material Defects Analyser (Passive electrical test)",
+  "category": "Quality"
+ },
+ {
+  "name": "MES",
+  "description": "Manufacturing Execution System",
+  "category": "Quality"
+ },
+ {
+  "name": "MI",
+  "description": "Manual Insert",
+  "category": "Quality"
+ },
+ {
+  "name": "MPC",
+  "description": "Materials Product Concession",
+  "category": "Quality"
+ },
+ {
+  "name": "MPN",
+  "description": "Manufacturer Part Number",
+  "category": "Quality"
+ },
+ {
+  "name": "MR",
+  "description": "Material Request",
+  "category": "Quality"
+ },
+ {
+  "name": "MRB",
+  "description": "Material Review Board",
+  "category": "Quality"
+ },
+ {
+  "name": "MSA",
+  "description": "Measurement System Analysis",
+  "category": "Quality"
+ },
+ {
+  "name": "MSO",
+  "description": "Maintenance Sales Order",
+  "category": "Quality"
+ },
+ {
+  "name": "MYCOM",
+  "description": "Cross-Functional team comprises of representatives from numerous selected departments",
+  "category": "Quality"
+ },
+ {
+  "name": "N\/A ",
+  "description": "Not applicable",
+  "category": "Quality"
+ },
+ {
+  "name": "NCR",
+  "description": "Non-Conformance Report",
+  "category": "Quality"
+ },
+ {
+  "name": "NDR",
+  "description": "New Document Request",
+  "category": "Quality"
+ },
+ {
+  "name": "NPI",
+  "description": "New Product Introduction",
+  "category": "Quality"
+ },
+ {
+  "name": "NTF",
+  "description": "No Trouble Found ",
+  "category": "Quality"
+ },
+ {
+  "name": "OQA",
+  "description": "Outgoing Quality Assurance",
+  "category": "Quality"
+ },
+ {
+  "name": "P&P",
+  "description": "Product and Project Engineer",
+  "category": "Quality"
+ },
+ {
+  "name": "PCBA",
+  "description": "Printed Circuit Board Assembly",
+  "category": "Quality"
+ },
+ {
+  "name": "PCN",
+  "description": "Manufacturer Product Change Notice",
+  "category": "Quality"
+ },
+ {
+  "name": "PDCA",
+  "description": "Plan-Do-Check-Act",
+  "category": "Quality"
+ },
+ {
+  "name": "PE",
+  "description": "Product\/Process Engineer",
+  "category": "Quality"
+ },
+ {
+  "name": "PE",
+  "description": "Procurement Engineer",
+  "category": "Quality"
+ },
+ {
+  "name": "PFMEA",
+  "description": "Process Failure Mode Effects Analysis",
+  "category": "Quality"
+ },
+ {
+  "name": "PM",
+  "description": "Project Manager",
+  "category": "Quality"
+ },
+ {
+  "name": "PM",
+  "description": "Production Management",
+  "category": "Quality"
+ },
+ {
+  "name": "PPAP",
+  "description": "Production Part Approval Process",
+  "category": "Quality"
+ },
+ {
+  "name": "PPCN",
+  "description": "Product \/ Process Change Notification",
+  "category": "Quality"
+ },
+ {
+  "name": "PPM",
+  "description": "Part Per Million",
+  "category": "Quality"
+ },
+ {
+  "name": "PPV",
+  "description": "Purchased Price Variance",
+  "category": "Quality"
+ },
+ {
+  "name": "Prod",
+  "description": "Production",
+  "category": "Quality"
+ },
+ {
+  "name": "PSE",
+  "description": "Process Engineer",
+  "category": "Quality"
+ },
+ {
+  "name": "PSW",
+  "description": "Part Submission Warrant",
+  "category": "Quality"
+ },
+ {
+  "name": "QA",
+  "description": "Quality Assurance",
+  "category": "Quality"
+ },
+ {
+  "name": "QC",
+  "description": "Quality Control",
+  "category": "Quality"
+ },
+ {
+  "name": "QE",
+  "description": "Quality Engineer",
+  "category": "Quality"
+ },
+ {
+  "name": "QM",
+  "description": "Quality Manager",
+  "category": "Quality"
+ },
+ {
+  "name": "QMR",
+  "description": "Quality Management Representative",
+  "category": "Quality"
+ },
+ {
+  "name": "QMS",
+  "description": "Quality Management System",
+  "category": "Quality"
+ },
+ {
+  "name": "QS",
+  "description": "Quality System",
+  "category": "Quality"
+ },
+ {
+  "name": "Qscore",
+  "description": "Quality Score",
+  "category": "Quality"
+ },
+ {
+  "name": "QSIT ",
+  "description": "Quality System Inspection Technique",
+  "category": "Quality"
+ },
+ {
+  "name": "R&D",
+  "description": "Research & Development ",
+  "category": "Quality"
+ },
+ {
+  "name": "R\/O",
+  "description": "Risk\/ Opportunity",
+  "category": "Quality"
+ },
+ {
+  "name": "RCA ",
+  "description": "Root Cause Analysis",
+  "category": "Quality"
+ },
+ {
+  "name": "RCCA",
+  "description": "Root Cause & Corrective Action",
+  "category": "Quality"
+ },
+ {
+  "name": "REACH",
+  "description": "Registration, Evaluation, Authorisation and Restriction of Chemicals",
+  "category": "Quality"
+ },
+ {
+  "name": "RFS",
+  "description": "Request For Scrap",
+  "category": "Quality"
+ },
+ {
+  "name": "RMA",
+  "description": "Return Material Authorisation",
+  "category": "Quality"
+ },
+ {
+  "name": "RMN",
+  "description": "Return Material Note",
+  "category": "Quality"
+ },
+ {
+  "name": "RO",
+  "description": "Risk and Opportunity",
+  "category": "Quality"
+ },
+ {
+  "name": "RoHS",
+  "description": "Restriction of Hazardous Substances",
+  "category": "Quality"
+ },
+ {
+  "name": "SC",
+  "description": "Significant \/ Special Characteristic",
+  "category": "Quality"
+ },
+ {
+  "name": "SCM",
+  "description": "Supply Chain Manager \/ Management",
+  "category": "Quality"
+ },
+ {
+  "name": "SCN",
+  "description": "Sales Credit Note",
+  "category": "Quality"
+ },
+ {
+  "name": "SCO",
+  "description": "Supply Chain Officer",
+  "category": "Quality"
+ },
+ {
+  "name": "SFC",
+  "description": "Shop Floor Control",
+  "category": "Quality"
+ },
+ {
+  "name": "SFM",
+  "description": "Shop Floor Management",
+  "category": "Quality"
+ },
+ {
+  "name": "SMD",
+  "description": "Surface Mount Device",
+  "category": "Quality"
+ },
+ {
+  "name": "SME",
+  "description": "Subject Matter Expert",
+  "category": "Quality"
+ },
+ {
+  "name": "SMT",
+  "description": "Surface Mount Technology",
+  "category": "Quality"
+ },
+ {
+  "name": "SOP",
+  "description": "Standard Operating Procedure",
+  "category": "Quality"
+ },
+ {
+  "name": "SPC",
+  "description": "Statistical Process Control",
+  "category": "Quality"
+ },
+ {
+  "name": "SQE",
+  "description": "Supplier Quality Engineer",
+  "category": "Quality"
+ },
+ {
+  "name": "SVHC",
+  "description": "Substance of Very High Concerns",
+  "category": "Quality"
+ },
+ {
+  "name": "TDR&A",
+  "description": "Time, Distance, Rotation & Angle for inspection.",
+  "category": "Quality"
+ },
+ {
+  "name": "TE",
+  "description": "Test Engineer",
+  "category": "Quality"
+ },
+ {
+  "name": "TQM",
+  "description": "Total Quality Management",
+  "category": "Quality"
+ },
+ {
+  "name": "UDI",
+  "description": "Unique Device Identifier",
+  "category": "Quality"
+ },
+ {
+  "name": "UPC",
+  "description": "Universal Product Code",
+  "category": "Quality"
+ },
+ {
+  "name": "UCL",
+  "description": "Upper Control Limit",
+  "category": "Quality"
+ },
+ {
+  "name": "USL",
+  "description": "Upper Spec Limit",
+  "category": "Quality"
+ },
+ {
+  "name": "VDA",
+  "description": "Verband der Automobilindustrie  (German Association of the Automotive Industry)",
+  "category": "Quality"
+ },
+ {
+  "name": "VQQC",
+  "description": "Visualized Quick Quality Control",
+  "category": "Quality"
+ },
+ {
+  "name": "WI",
+  "description": "Work Instruction",
+  "category": "Quality"
+ },
+ {
+  "name": "WO",
+  "description": "Work Order",
+  "category": "Quality"
+ },
+ {
+  "name": "USD",
+  "description": "US Dollar",
+  "category": "Finance"
+ },
+ {
+  "name": "SGD",
+  "description": "Singapore Dollar",
+  "category": "Finance"
+ },
+ {
+  "name": "CHF",
+  "description": "Swiss Franc",
+  "category": "Finance"
+ },
+ {
+  "name": "EUR",
+  "description": "Euro",
+  "category": "Finance"
+ },
+ {
+  "name": "DKK",
+  "description": "Danish Krona",
+  "category": "Finance"
+ },
+ {
+  "name": "HKD",
+  "description": "Hong Kong Dollar",
+  "category": "Finance"
+ },
+ {
+  "name": "MYR",
+  "description": "Malaysian Ringgit",
+  "category": "Finance"
+ },
+ {
+  "name": "NZD",
+  "description": "New Zealand Dollar",
+  "category": "Finance"
+ },
+ {
+  "name": "GBP",
+  "description": "British Pound",
+  "category": "Finance"
+ },
+ {
+  "name": "CZK",
+  "description": "Czech Koruna",
+  "category": "Finance"
+ },
+ {
+  "name": "AUD",
+  "description": "Australian Dollar",
+  "category": "Finance"
+ },
+ {
+  "name": "IDR",
+  "description": "Indonesia Rupiah",
+  "category": "Finance"
+ },
+ {
+  "name": "JPY",
+  "description": "Japanese Yen",
+  "category": "Finance"
+ },
+ {
+  "name": "CNY",
+  "description": "Chines Yuan Renminbi",
+  "category": "Finance"
+ },
+ {
+  "name": "HUF",
+  "description": "Hungarian Forint",
+  "category": "Finance"
+ },
+ {
+  "name": "SEK",
+  "description": "Swedish Krona",
+  "category": "Finance"
+ },
+ {
+  "name": "NPAT",
+  "description": "Nett Profit After Tax",
+  "category": "Finance"
+ },
+ {
+  "name": "NTA",
+  "description": "Net Tangible Asset",
+  "category": "Finance"
+ },
+ {
+  "name": "GL",
+  "description": "General Ledger",
+  "category": "Finance"
+ },
+ {
+  "name": "VAT",
+  "description": "Value Added Tax",
+  "category": "Finance"
+ },
+ {
+  "name": "AFS",
+  "description": "Audited Financial Statements",
+  "category": "Finance"
+ },
+ {
+  "name": "AGM",
+  "description": "Annual General Meeting",
+  "category": "Finance"
+ },
+ {
+  "name": "FMM",
+  "description": "Finance Managers Meeting",
+  "category": "Finance"
+ },
+ {
+  "name": "IFRS",
+  "description": "Internation Financial Reporting Standards",
+  "category": "Finance"
+ },
+ {
+  "name": "CAPEX",
+  "description": "Capital Expenditures",
+  "category": "Finance"
+ },
+ {
+  "name": "5S",
+  "description": "5S Housekeeping  (Sort, Set in order, Shine, Standardize, Sustain) ",
+  "category": "HR"
+ },
+ {
+  "name": "AMT",
+  "description": "Amount",
+  "category": "HR"
+ },
+ {
+  "name": "ATP",
+  "description": "Annual Training Plan",
+  "category": "HR"
+ },
+ {
+  "name": "BDM",
+  "description": "Business Development Manager",
+  "category": "HR"
+ },
+ {
+  "name": "BoD",
+  "description": "Board of Directors",
+  "category": "HR"
+ },
+ {
+  "name": "BSC",
+  "description": "Balance Scorecard",
+  "category": "HR"
+ },
+ {
+  "name": "BUM",
+  "description": "Business Unit Manager",
+  "category": "HR"
+ },
+ {
+  "name": "C&B",
+  "description": "Compensation and Benefits",
+  "category": "HR"
+ },
+ {
+  "name": "CE",
+  "description": "Component Engineer",
+  "category": "HR"
+ },
+ {
+  "name": "CEO",
+  "description": "Chief Executive Officer",
+  "category": "HR"
+ },
+ {
+  "name": "CFO",
+  "description": "Chief Finance Officer",
+  "category": "HR"
+ },
+ {
+  "name": "CLA",
+  "description": "Corporate Legal Advisor",
+  "category": "HR"
+ },
+ {
+  "name": "CMCM",
+  "description": "Corporate Marketing & Communications Manager",
+  "category": "HR"
+ },
+ {
+  "name": "COO",
+  "description": "Chief Operations Officer",
+  "category": "HR"
+ },
+ {
+  "name": "CRCM",
+  "description": "Corporate Regulatory Compliance Manager",
+  "category": "HR"
+ },
+ {
+  "name": "CV",
+  "description": "Curriculum Vitae",
+  "category": "HR"
+ },
+ {
+  "name": "DBD",
+  "description": "Director Business Development",
+  "category": "HR"
+ },
+ {
+  "name": "DBP",
+  "description": "Director Business Processes",
+  "category": "HR"
+ },
+ {
+  "name": "DCM",
+  "description": "Director Corporate Marketing",
+  "category": "HR"
+ },
+ {
+  "name": "DCP",
+  "description": "Director Corporate Procurement",
+  "category": "HR"
+ },
+ {
+  "name": "DCS",
+  "description": "Director Customer Service",
+  "category": "HR"
+ },
+ {
+  "name": "DL",
+  "description": "Direct Labour",
+  "category": "HR"
+ },
+ {
+  "name": "DM",
+  "description": "Department Manager",
+  "category": "HR"
+ },
+ {
+  "name": "EA",
+  "description": "Employment Act 1955",
+  "category": "HR"
+ },
+ {
+  "name": "EC",
+  "description": "Executive Chairman",
+  "category": "HR"
+ },
+ {
+  "name": "EHS",
+  "description": "Environment, Health and Safety",
+  "category": "HR"
+ },
+ {
+  "name": "EIS",
+  "description": "Employee Insurance System",
+  "category": "HR"
+ },
+ {
+  "name": "EM",
+  "description": "Engineering Manager",
+  "category": "HR"
+ },
+ {
+  "name": "EPF",
+  "description": "Employees' Provident Fund",
+  "category": "HR"
+ },
+ {
+  "name": "ER",
+  "description": "Employee Relations",
+  "category": "HR"
+ },
+ {
+  "name": "Exempt",
+  "description": "Executive staff grouping (IDL)",
+  "category": "HR"
+ },
+ {
+  "name": "EXT",
+  "description": "Phone Extention Number",
+  "category": "HR"
+ },
+ {
+  "name": "FA",
+  "description": "Failure Analysis",
+  "category": "HR"
+ },
+ {
+  "name": "FM",
+  "description": "Finance Manager",
+  "category": "HR"
+ },
+ {
+  "name": "FOMEMA",
+  "description": "Foreign Workers’ Medical Examination Screening System",
+  "category": "HR"
+ },
+ {
+  "name": "FW",
+  "description": "Foreign Workers",
+  "category": "HR"
+ },
+ {
+  "name": "FWCMS",
+  "description": "Foreign Workers Centralised Management System",
+  "category": "HR"
+ },
+ {
+  "name": "GA",
+  "description": "Group Accountant",
+  "category": "HR"
+ },
+ {
+  "name": "GDPR",
+  "description": "General Data Protection Regulation",
+  "category": "HR"
+ },
+ {
+  "name": "GHS",
+  "description": "Group Hospitalisation Insurance Scheme",
+  "category": "HR"
+ },
+ {
+  "name": "GITM",
+  "description": "Group IT Manager",
+  "category": "HR"
+ },
+ {
+  "name": "GM",
+  "description": "General Manager",
+  "category": "HR"
+ },
+ {
+  "name": "GS",
+  "description": "General Store\/Warehouse",
+  "category": "HR"
+ },
+ {
+  "name": "HC",
+  "description": "Headcount",
+  "category": "HR"
+ },
+ {
+  "name": "HO",
+  "description": "Home Office",
+  "category": "HR"
+ },
+ {
+  "name": "HoD",
+  "description": "Head of Department",
+  "category": "HR"
+ },
+ {
+  "name": "HR",
+  "description": "Human Resource",
+  "category": "HR"
+ },
+ {
+  "name": "HRDF",
+  "description": "Human Resource Development Fund",
+  "category": "HR"
+ },
+ {
+  "name": "HRIS",
+  "description": "Human Resource Information System",
+  "category": "HR"
+ },
+ {
+  "name": "HRM",
+  "description": "Human Resource Manager",
+  "category": "HR"
+ },
+ {
+  "name": "ID",
+  "description": "Identification",
+  "category": "HR"
+ },
+ {
+  "name": "IDL",
+  "description": "Indirect Labour",
+  "category": "HR"
+ },
+ {
+  "name": "IE",
+  "description": "Industrial Engineer",
+  "category": "HR"
+ },
+ {
+  "name": "IndP",
+  "description": "Indirect Purchasing Manager",
+  "category": "HR"
+ },
+ {
+  "name": "IR",
+  "description": "Industrial Relations",
+  "category": "HR"
+ },
+ {
+  "name": "ITM",
+  "description": "IT Manager",
+  "category": "HR"
+ },
+ {
+  "name": "JD",
+  "description": "Job description",
+  "category": "HR"
+ },
+ {
+  "name": "JE",
+  "description": "Job Evaluation",
+  "category": "HR"
+ },
+ {
+  "name": "KAM",
+  "description": "Key Account Manager",
+  "category": "HR"
+ },
+ {
+  "name": "KPI",
+  "description": "Key Performance Indicator",
+  "category": "HR"
+ },
+ {
+  "name": "LC",
+  "description": "Labour Code",
+  "category": "HR"
+ },
+ {
+  "name": "LOS",
+  "description": "Length of Service",
+  "category": "HR"
+ },
+ {
+  "name": "MbO",
+  "description": "Management by Objectives",
+  "category": "HR"
+ },
+ {
+  "name": "Non-Exempt",
+  "description": "Non Executive staff grouping (IDL)",
+  "category": "HR"
+ },
+ {
+  "name": "OA",
+  "description": "Office Administrator",
+  "category": "HR"
+ },
+ {
+  "name": "OJT",
+  "description": "On-Job Trainer",
+  "category": "HR"
+ },
+ {
+  "name": "ORP",
+  "description": "Ordinary Rate of Pay",
+  "category": "HR"
+ },
+ {
+  "name": "OT",
+  "description": "Overtime",
+  "category": "HR"
+ },
+ {
+  "name": "PA",
+  "description": "Personal Accident Insurance Scheme",
+  "category": "HR"
+ },
+ {
+  "name": "PDF",
+  "description": "Personnel Development Forum",
+  "category": "HR"
+ },
+ {
+  "name": "PDPA",
+  "description": "Personal Data Protection Act",
+  "category": "HR"
+ },
+ {
+  "name": "PE",
+  "description": "Product Engineer \/ Process Engineer",
+  "category": "HR"
+ },
+ {
+  "name": "PERKESO",
+  "description": "Social Security Organisation or PERKESO (Pertubuhan Keselamatan Sosial)",
+  "category": "HR"
+ },
+ {
+  "name": "PIM",
+  "description": "Process Improvement Meeting",
+  "category": "HR"
+ },
+ {
+  "name": "PIP",
+  "description": "Performance Improvement Plan",
+  "category": "HR"
+ },
+ {
+  "name": "PlantM",
+  "description": "Plant Manager",
+  "category": "HR"
+ },
+ {
+  "name": "PM",
+  "description": "Project Manager",
+  "category": "HR"
+ },
+ {
+  "name": "PMS",
+  "description": "Performance Management System",
+  "category": "HR"
+ },
+ {
+  "name": "ProdM",
+  "description": "Production Manager",
+  "category": "HR"
+ },
+ {
+  "name": "ProgM",
+  "description": "Program Manager",
+  "category": "HR"
+ },
+ {
+  "name": "QE",
+  "description": "Quality Engineer",
+  "category": "HR"
+ },
+ {
+  "name": "QM",
+  "description": "Quality Manager",
+  "category": "HR"
+ },
+ {
+  "name": "SCM",
+  "description": "Supply Chain Manager",
+  "category": "HR"
+ },
+ {
+  "name": "SH",
+  "description": "Section Head",
+  "category": "HR"
+ },
+ {
+  "name": "SKHPPA",
+  "description": "Foreign Workers Hospitalization & Surgical Insurance",
+  "category": "HR"
+ },
+ {
+  "name": "SLT",
+  "description": "Senior Leadership Team",
+  "category": "HR"
+ },
+ {
+  "name": "SOCSO",
+  "description": "Social Security Organisation or PERKESO (Pertubuhan Keselamatan Sosial)",
+  "category": "HR"
+ },
+ {
+  "name": "SOP",
+  "description": "Standard Operating Procedure",
+  "category": "HR"
+ },
+ {
+  "name": "SQE",
+  "description": "Supplier Quality Engineer",
+  "category": "HR"
+ },
+ {
+  "name": "T&D",
+  "description": "Training and Development",
+  "category": "HR"
+ },
+ {
+  "name": "TE",
+  "description": "Test Engineer",
+  "category": "HR"
+ },
+ {
+  "name": "TNA",
+  "description": "Training Needs Analysis",
+  "category": "HR"
+ },
+ {
+  "name": "TO",
+  "description": "Turnover",
+  "category": "HR"
+ },
+ {
+  "name": "TOT",
+  "description": "Total",
+  "category": "HR"
+ },
+ {
+  "name": "VAT",
+  "description": "Value added Tax",
+  "category": "HR"
+ },
+ {
+  "name": "WFH",
+  "description": "Work From Home",
+  "category": "HR"
+ },
+ {
+  "name": "WK",
+  "description": "Work Week",
+  "category": "HR"
+ },
+ {
+  "name": "YR",
+  "description": "Year",
+  "category": "HR"
+ },
+ {
+  "name": "ERP",
+  "description": "Enterprise Resource Plannning",
+  "category": "IT"
+ },
+ {
+  "name": "PLM",
+  "description": "Product Lifecycle Management",
+  "category": "IT"
+ },
+ {
+  "name": "MES",
+  "description": "Manufacturing Execution System",
+  "category": "IT"
+ },
+ {
+  "name": "MoM",
+  "description": "Manufacturing Operations Management",
+  "category": "IT"
+ },
+ {
+  "name": "APM",
+  "description": "Asset Performance Management",
+  "category": "IT"
+ },
+ {
+  "name": "QMS",
+  "description": "Quality Management System",
+  "category": "IT"
+ },
+ {
+  "name": "CRM",
+  "description": "Customer Relationship Management",
+  "category": "IT"
+ },
+ {
+  "name": "HRMS",
+  "description": "Human Resource Management System",
+  "category": "IT"
+ },
+ {
+  "name": "TC",
+  "description": "Teamcenter   ",
+  "Application": "ESCATEC's PLM system",
+  "category": "IT"
+ },
+ {
+  "name": "QW \/ SW",
+  "description": "QuoteWin \/ SupplyWin",
+  "Application": "ESCATEC's Direct & Indirect Procurement System",
+  "category": "IT"
+ },
+ {
+  "name": "mTrac",
+  "Application": "ESCATEC's MES system",
+  "category": "IT"
+ },
+ {
+  "name": "CSHTE",
+  "description": "CloudSuite High Tech Electronics   ",
+  "Application": "ESCATEC's ERP system",
+  "category": "IT"
+ },
+ {
+  "name": "MFA",
+  "description": "Multi-Factor Authentication",
+  "Application": "2 factors authentication",
+  "category": "IT"
+ },
+ {
+  "name": "VPN",
+  "description": "Virtual Private Network",
+  "Application": "Remote Secure Connection",
+  "category": "IT"
+ },
+ {
+  "name": "O365",
+  "description": "Cloud Office 365",
+  "Application": "Office 365 ",
+  "category": "IT"
+ },
+ {
+  "name": "AML",
+  "description": "Approved Manufacturer List",
+  "category": "Supply Chain"
+ },
+ {
+  "name": "AVL",
+  "description": "Approved Vendor List",
+  "category": "Supply Chain"
+ },
+ {
+  "name": "CRD",
+  "description": "Customer Request Date",
+  "category": "Supply Chain"
+ },
+ {
+  "name": "EAU",
+  "description": "Estimated Annual Usage",
+  "category": "Supply Chain"
+ },
+ {
+  "name": "EOL",
+  "description": "End of Life",
+  "category": "Supply Chain"
+ },
+ {
+  "name": "LOI",
+  "description": "Letter of Intent",
+  "category": "Supply Chain"
+ },
+ {
+  "name": "LT",
+  "description": "Lead Time",
+  "category": "Supply Chain"
+ },
+ {
+  "name": "LTB",
+  "description": "Last Time Buy",
+  "category": "Supply Chain"
+ },
+ {
+  "name": "LTS",
+  "description": "Last Time Ship",
+  "category": "Supply Chain"
+ },
+ {
+  "name": "MOQ",
+  "description": "Minimum Order Quantity",
+  "category": "Supply Chain"
+ },
+ {
+  "name": "MOV",
+  "description": "Minimum Order Value",
+  "category": "Supply Chain"
+ },
+ {
+  "name": "MPQ",
+  "description": "Minimum Pack Quantity",
+  "category": "Supply Chain"
+ },
+ {
+  "name": "MRP",
+  "description": "Material Requirements Planning",
+  "category": "Supply Chain"
+ },
+ {
+  "name": "NCNR",
+  "description": "Non-Cancellable Non-Returnable",
+  "category": "Supply Chain"
+ },
+ {
+  "name": "PO",
+  "description": "Purchase Order",
+  "category": "Supply Chain"
+ },
+ {
+  "name": "PR",
+  "description": "Purchase Request",
+  "category": "Supply Chain"
+ },
+ {
+  "name": "RMA",
+  "description": "Return Material Authorisation",
+  "category": "Supply Chain"
+ },
+ {
+  "name": "TCM",
+  "description": "Total Component Management",
+  "category": "Supply Chain"
+ },
+ {
+  "name": "VMI",
+  "description": "Vendor Managed Inventory",
+  "category": "Supply Chain"
+ }
+]
+}
