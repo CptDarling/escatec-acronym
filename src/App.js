@@ -18,12 +18,7 @@ function App() {
   });
 
   return (
-    <>
-      <div>
-        <a href='/'>Home</a>
-      </div>
-      <FilterableAcronymTable acronyms={acronyms} />
-    </>
+    <FilterableAcronymTable acronyms={acronyms} />
   );
 }
 
