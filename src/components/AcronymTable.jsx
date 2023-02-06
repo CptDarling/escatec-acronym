@@ -27,7 +27,7 @@ export const AcronymTable = ({ acronyms, filterText }) => {
     rows.push(
       <AcronymRow
         acronym={e}
-        key={e.name}
+        key={rows.length}
       />
     )
 
