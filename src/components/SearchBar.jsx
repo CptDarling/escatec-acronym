@@ -3,7 +3,7 @@ export const SearchBar = ({filterText, onFilterTextChange}) => {
     <form type="search">
       <input
         type="text"
-        placeholder="Search..."
+        placeholder="Search name or category..."
         defaultValue={filterText}
         onChange={(e) => onFilterTextChange(e.target.value)}
       />

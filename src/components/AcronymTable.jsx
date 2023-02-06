@@ -1,11 +1,19 @@
 import { AcronymRow } from "./AcronymRow";
 import { AcronymCategoryRow } from "./AcronymCategoryRow";
 
-export const AcronymTable = ({ acronyms }) => {
+export const AcronymTable = ({ acronyms, filterText }) => {
   const rows = [];
   let lastCategory = null;
 
   acronyms.forEach((e) => {
+
+    // Match for name
+    if (filterText && e.name.toLowerCase().indexOf(filterText.toLowerCase()) === -1) {
+      // Match for category
+      if (e.category.toLowerCase().indexOf(filterText.toLowerCase()) === -1 ) {
+        return;
+      }
+    }
 
     if (e.category !== lastCategory) {
       rows.push(

@@ -11,7 +11,10 @@ export const FilterableAcronymTable = ({ acronyms }) => {
         filterText={filterText}
         onFilterTextChange={setfilterText}
       />
-      <AcronymTable acronyms={acronyms} />
+      <AcronymTable
+        acronyms={acronyms}
+        filterText={filterText}
+      />
     </div>
   )
 }
